@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh; /* Set the height to the full viewport height */
+  }
+
+  .container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
